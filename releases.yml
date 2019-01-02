@@ -1,0 +1,37 @@
+"wafoo"
+"furikake"
+"ec2ctrl"
+"amiCtrl"
+"tagCtrl"
+"wafoon"
+"pStore"
+"shinobi"
+"chihuahua"
+---
+- title: wafoo
+  version: v0.0.6
+  updated: '2018-12-09'
+- title: furikake
+  version: v0.1.9
+  updated: '2018-12-01'
+- title: ec2ctrl
+  version: v0.0.9
+  updated: '2018-11-26'
+- title: amiCtrl
+  version: v0.0.5
+  updated: '2018-10-26'
+- title: tagCtrl
+  version: v0.0.1
+  updated: '2018-09-25'
+- title: wafoon
+  version: v0.0.1
+  updated: '2018-09-22'
+- title: pStore
+  version: v0.0.7
+  updated: '2018-10-15'
+- title: shinobi
+  version: v0.0.4
+  updated: '2018-11-05'
+- title: chihuahua
+  version: v0.1.0
+  updated: '2017-04-21'
